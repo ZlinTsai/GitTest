@@ -25,7 +25,6 @@ public:
             }
             else
             {
-                cout << "?? " << iCount <<endl;
                 iMax = max(iMax, iCount);
                 prevChar = s[i];
                 iCount = 1;
